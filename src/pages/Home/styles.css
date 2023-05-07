@@ -4,10 +4,6 @@
   flex-direction: column;
 }
 
-.container h1{
-  padding: 1em;
-}
-
 .container header {
   width: 50%;
   margin: 84px 0 24px;
